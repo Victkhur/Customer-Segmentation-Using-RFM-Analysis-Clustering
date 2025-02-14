@@ -26,12 +26,8 @@ The dataset consists of transactional data, including:
 📂 Customer-Segmentation  
 │── 📂 data                # Dataset  
 │── 📂 notebooks           # Jupyter Notebooks  
-│── 📂 reports             # Analysis & Visualizations  
-│── 📂 models              # Saved Models  
 │── 📜 README.md           # Project Overview  
 │── 📜 requirements.txt    # Required Libraries  
-│── 📜 clustering.py       # Clustering Implementation  
-│── 📜 visualization.py    # Data Visualization  
 │── 📜 insights.md         # Business Insights  
 ```
 
