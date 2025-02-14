@@ -24,8 +24,8 @@ The dataset consists of transactional data, including:
 ## **Project Structure**  
 ```
 📂 Customer-Segmentation  
-│── 📂 data                # Dataset  
-│── 📂 notebooks           # Jupyter Notebooks  
+│── 📂 dataset                # Dataset  
+│── 📂 notebook           # Jupyter Notebooks  
 │── 📜 README.md           # Project Overview  
 │── 📜 requirements.txt    # Required Libraries  
 │── 📜 insights.md         # Business Insights  
@@ -73,11 +73,7 @@ The dataset consists of transactional data, including:
    ```sh
    pip install -r requirements.txt
    ```  
-3. Run clustering script:  
-   ```sh
-   python clustering.py
-   ```  
-4. Explore results in Jupyter Notebook.  
+3. Explore results in Jupyter Notebook.  
 
 ## **Future Enhancements**  
 - **Automate feature selection for clustering**.  
